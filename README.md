@@ -24,13 +24,13 @@ This code is originally from the paper "Diffusion Models for Generative Outfit R
 ## Run code
 Download the Figaro-1k dataset from [here](https://www.dropbox.com/scl/fi/bkzbwgobxayoaeqohgvrp/Figaro-1k.zip?dl=0&e=7&file_subpath=%2FFigaro-1k%2FOriginal%2FTesting&rlkey=qahueoko45prpzmsadzmus5ga)
 
-## Generated images from Diffusion Denoising Probability Model (DDPM) from below github code
-https://github.com/Draw1n/DDPM-Street-Scene-Repaint 
+## Generated images from Diffusion Denoising Probability Model (DDPM) 
+Images are generated from DDPM from this github code: https://github.com/Draw1n/DDPM-Street-Scene-Repaint 
 
-### Model
+## Model
 Use the file "difashion.py"
 
-### Training
+## Training
 Use the file "train.py" for training
 
 
