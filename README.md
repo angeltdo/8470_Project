@@ -21,11 +21,12 @@ This code is originally from the paper "Diffusion Models for Generative Outfit R
 - pytorch-fid 0.3.0
 - lpips 0.1.4
 
-## Run code
+## Dataset
 Download the Figaro-1k dataset from [here](https://www.dropbox.com/scl/fi/bkzbwgobxayoaeqohgvrp/Figaro-1k.zip?dl=0&e=7&file_subpath=%2FFigaro-1k%2FOriginal%2FTesting&rlkey=qahueoko45prpzmsadzmus5ga)
 
 ## Generated images from Diffusion Denoising Probability Model (DDPM) 
 Images are generated from DDPM from this github code: https://github.com/Draw1n/DDPM-Street-Scene-Repaint 
+Or use the file "diffusers.ipynb" 
 
 ## Model
 Use the file "difashion.py"
